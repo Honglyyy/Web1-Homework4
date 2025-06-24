@@ -39,12 +39,16 @@ nav h2{
 nav ul {
     list-style: none;
 }
-
+nav li{
+    margin: 5px 0;
+}
 nav a {
     color: white;
     text-decoration: none;
 }
-
+nav a:hover{
+    color:black;
+}
 main {
     background-color: white;
     margin: 10px 3px;
